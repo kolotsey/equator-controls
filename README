@@ -1,0 +1,38 @@
+
+EQUATOR-CONTROLS - GUI widget library for AS3 applications
+==========================================================
+
+OVERVIEW
+========
+  GUI widget library for AS3 applications.
+  The library has ability to load interface configuration from an XML file. 
+  The library generates widgets using source code. 
+
+REQUIREMENTS
+============
+  This library does not require any extra packages.
+
+INSTALLATION INSTRUCTIONS
+=========================
+  To use this library in your project simply add a folder containing the library
+  into your Lib path (option -library-path+=../equator-controls.swc for flex).
+
+DOCUMENTATION
+=============
+  Only in-code comments are available at the moment.
+  See also `test' directory for examples.
+  
+COPYRIGHT NOTICE
+================
+  AIRSerial is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  AIRSerial is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public Licenise
+  along with libexpression. If not, see <http://www.gnu.org/licenses/>.
